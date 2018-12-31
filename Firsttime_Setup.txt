@@ -1,0 +1,6 @@
+npm install -g @angular/cli
+npm update
+ng new webAdmin
+cd webAdmin/
+ng serve
+
