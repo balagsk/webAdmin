@@ -5,7 +5,7 @@ Angular 7+, Angular CLI, TypeScript, Scss, Bootstrap, SpringBoot, Mysql Database
 
 # Steps to initialise project
 
-git clone https://github.com/balagsk/adminWeb.git
+git clone https://github.com/balagsk/webAdmin.git
 
 npm install
 
